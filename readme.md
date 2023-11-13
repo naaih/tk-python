@@ -1,4 +1,4 @@
 ### Tkinter Python Test
 
-#### Test Program on Tkinter Python:
+#### Test Program for Tkinter Python:
 ![image](tk-python.png)
